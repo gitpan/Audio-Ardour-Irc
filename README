@@ -1,5 +1,6 @@
-Audio::Ardour::Irc version 0.1
-==================================
+==================
+Audio::Ardour::Irc
+==================
 
 Audio::Ardour::Irc passes OSC messages to Ardour allowing control
 by (for example) an infra red remote.

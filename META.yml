@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Audio-Ardour-Irc
-version:             0.10
+version:             0.20
 abstract:            Infra red remote control of the Ardour DAW.
 license:             ~
 author:              

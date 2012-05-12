@@ -8,7 +8,7 @@ use File::Spec;
 use Net::LibLO;
 use File::HomeDir;
 
-our $VERSION = '0.10';
+our $VERSION = '0.20';
 
 =head1 NAME
 
